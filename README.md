@@ -20,7 +20,7 @@ A diferencia de los bots tradicionales basados en comandos, este asistente utili
 ## 🛠️ Stack Tecnológico
 
 * **Orquestación:** [n8n](https://n8n.io/) (Workflow Automation).
-* **IA & LLM:** Google Gemini 1.5 Pro (Razonamiento) & Gemini Audio (Transcripción).
+* **IA & LLM:** Google Gemini 2.5 Pro (Razonamiento) & Gemini Audio (Transcripción).
 * **Integraciones:**
     * Telegram Bot API.
     * Google Calendar API.
