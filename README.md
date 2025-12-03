@@ -43,8 +43,8 @@ El flujo de trabajo sigue una lógica de decisión avanzada:
 
 ## 📸 Vista del Flujo
 
-![n8n Workflow Screenshot](ruta_de_tu_imagen_aqui.png)
-*(Reemplaza esto con una captura de pantalla de tu flujo en n8n)*
+<img width="1147" height="282" alt="image" src="https://github.com/user-attachments/assets/a08c2256-6140-4f21-a9a0-fea6692c1d28" />
+
 
 ## 📦 Instalación y Uso
 
@@ -66,4 +66,4 @@ El "cerebro" del agente utiliza un prompt diseñado con ingeniería de instrucci
 * Identificar IDs de eventos para modificaciones precisas.
 
 ---
-*Desarrollado por [Tu Nombre] - Analista de Datos & Especialista en Automatización.*
+*Desarrollado por Mateo Barona - Analista de Datos & Especialista en Automatización.*
